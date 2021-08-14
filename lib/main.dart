@@ -34,7 +34,8 @@ class MessengerProfile  extends StatelessWidget {
           Column(
             children: [
               MessageStory('https://cdn2.vectorstock.com/i/1000x1000/32/01/user-sign-icon-person-symbol-human-avatar-vector-12693201.jpg', 'Refka Aissa', 'I appreciate my work'),
-              MessageStory('https://cdn2.vectorstock.com/i/1000x1000/32/01/user-sign-icon-person-symbol-human-avatar-vector-12693201.jpg', 'Refka Aissa', 'Thanks GOD')
+              MessageStory('https://cdn2.vectorstock.com/i/1000x1000/32/01/user-sign-icon-person-symbol-human-avatar-vector-12693201.jpg', 'Refka Aissa', 'Thanks GOD'),
+              MessageStory('https://cdn2.vectorstock.com/i/1000x1000/32/01/user-sign-icon-person-symbol-human-avatar-vector-12693201.jpg', 'Refka Aissa', 'I will reach my target'),
             ],
           )
         ],
